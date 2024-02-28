@@ -1,0 +1,9 @@
+.display{
+    font-size: 50px;
+    width: 90%;
+    margin: 10px; 
+    margin-left: 4.5%;
+     box-shadow:0px 0px 3px rgb(197, 49, 49) ;
+     border-radius: 5px;
+     background:linear-gradient(rgb(228, 61, 61),rgb(166, 124, 124));
+}
